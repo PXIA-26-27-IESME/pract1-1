@@ -1,13 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public enum Tag
 {
-    leftWall,
-    rightWall,
-    leftRacket,
-    rightRacket
+    LeftWall,
+    RightWall,
+    LeftRacket,
+    RightRacket
 }
 public class TagManager : MonoBehaviour
 {
