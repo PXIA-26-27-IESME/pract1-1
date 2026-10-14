@@ -17,5 +17,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/AIvsAI.unity
     guid: 34d48a514c226dd4185f2cf0a5fcd80a
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 5231ebb70dc6d8688b4c33f1f866585c,
+      type: 3}
   m_UseUCBPForAssetBundles: 0
